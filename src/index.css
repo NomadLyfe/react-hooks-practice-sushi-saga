@@ -18,6 +18,11 @@ body {
 
 .remaining {
   grid-area: rm;
+  margin: auto auto 60px auto;
+}
+
+form {
+  grid-area: rm;
   margin: auto;
 }
 
